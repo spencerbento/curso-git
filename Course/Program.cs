@@ -18,7 +18,7 @@ namespace Course
             Console.WriteLine(mult);
 
 
-            
+            Console.WriteLine("Bom dia!");
             
 
 
