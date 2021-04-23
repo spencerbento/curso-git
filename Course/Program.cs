@@ -19,6 +19,7 @@ namespace Course
 
 
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Boa tarde, como você está hoje?");
             
 
 
